@@ -24,8 +24,8 @@ public class array {
         SimpleDateFormat sdf=new SimpleDateFormat("M/d/y");
         SimpleDateFormat sdfs=new SimpleDateFormat("M/d/y hh:mm:ss");
 
-        //System.out.println(sdf.format(date));
-       // System.out.println(sdfs.format(date));
+        System.out.println(sdf.format(date));
+        System.out.println(sdfs.format(date));
         System.out.println(date);
         int m[][]={{1,8,7},{0,5,1},{9,0,7}};
         int s=m[0][0];
