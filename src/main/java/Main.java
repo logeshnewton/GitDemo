@@ -107,6 +107,10 @@ public class Main {
         //return 7;
 
          System.out.println("lovely Logesh");
+
+         for (int i=0;i<10;i++){
+             System.out.println(i);
+         }
     }
 
 }
